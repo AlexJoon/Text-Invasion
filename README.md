@@ -10,4 +10,4 @@ The word's velocity increases faster as the player increments more score points 
 
 <img width="528" alt="TextInvasionPic1" src="https://user-images.githubusercontent.com/46412260/64909847-06b3ab80-d6df-11e9-8a01-595d5d6514b4.PNG">
 
-<img width="526" alt="Pic2" src="https://user-images.githubusercontent.com/46412260/64909858-1fbc5c80-d6df-11e9-8b66-8d3d33d73c52.PNG">
+<img width="526" alt="Pic2" src="https://user-images.githubusercontent.com/46412260/64910033-d66d0c80-d6e0-11e9-80f8-0d10c48fc6aa.PNG">
